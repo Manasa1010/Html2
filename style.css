@@ -1,0 +1,59 @@
+h1 {
+color:rosybrown;
+}
+
+.intro{
+    background-color:rgb(116, 116, 245);
+    display: flex;
+    justify-content: center;
+}
+.about{
+    background-color: crimson;
+    display: flex;
+    justify-content: flex-end;
+}
+.camel{
+    background-color:rgb(201, 237, 238);
+   display: flex;
+   flex-wrap: wrap;
+   flex-direction: row-reverse;
+}
+p{
+    font-style:italic;
+    font-weight: bold;
+    
+}
+li{
+   font-style: oblique;
+}
+.chameleon{
+    background-color:aqua;
+   display: flex;
+   flex-wrap: wrap;
+  
+}
+.pigeon{
+    background-color:rgb(201, 237, 238);
+   display: flex;
+   flex-wrap: wrap;
+   flex-direction: row-reverse;
+}
+.teddy-bear{
+    background-color:aqua;
+   display: flex;
+   flex-wrap: wrap;
+  
+}
+.panda{
+    background-color:rgb(201, 237, 238);
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row-reverse;
+}
+.cicada{
+    background-color:aqua;
+   display: flex;
+   flex-wrap: wrap;
+  
+}
+
