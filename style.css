@@ -1,22 +1,27 @@
 h1 {
-color:rosybrown;
+color:crimson;
+padding-top: 30px;
 }
 
 .intro{
-    background-color:rgb(116, 116, 245);
+   
     display: flex;
     justify-content: center;
 }
 .about{
-    background-color: crimson;
+   
     display: flex;
     justify-content: flex-end;
+    padding-top: 20px;
+    margin: 10px;
 }
 .camel{
-    background-color:rgb(201, 237, 238);
+    background-color:rgb(216, 84, 111);
    display: flex;
    flex-wrap: wrap;
    flex-direction: row-reverse;
+   padding-top: 20px;
+   margin: 50px;
 }
 p{
     font-style:italic;
@@ -25,35 +30,53 @@ p{
 }
 li{
    font-style: oblique;
+   text-transform: uppercase;
+   text-size-adjust: 20px;
 }
 .chameleon{
-    background-color:aqua;
+    background-color:rgb(235, 159, 174);
    display: flex;
    flex-wrap: wrap;
+   padding-top: 20px;
+   margin: 50px;
   
 }
 .pigeon{
-    background-color:rgb(201, 237, 238);
+    background-color:rgb(216, 84, 111);
    display: flex;
    flex-wrap: wrap;
    flex-direction: row-reverse;
+   padding-top: 20px;
+   margin: 50px;
 }
 .teddy-bear{
-    background-color:aqua;
+    background-color:rgb(235, 159, 174);
    display: flex;
    flex-wrap: wrap;
+   padding-top: 20px;
+   margin: 50px;
+   
   
 }
 .panda{
-    background-color:rgb(201, 237, 238);
+    background-color:rgb(216, 84, 111);
     display: flex;
     flex-wrap: wrap;
     flex-direction: row-reverse;
+    padding-top: 20px;
+    margin: 50px;
 }
 .cicada{
-    background-color:aqua;
+    background-color:rgb(235, 159, 174);
    display: flex;
    flex-wrap: wrap;
+   padding-top: 20px;
+   margin: 50px;
   
+}
+body{
+    margin: 0px;
+    background-color:rgb(215, 227, 238);
+    
 }
 
